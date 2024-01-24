@@ -1,0 +1,32 @@
+{
+  "name": "real-finnventor-s-themes",
+  "displayName": "Real Finnventor's Themes",
+  "description": "Just for fun.",
+  "version": "1.0.0",
+  "engines": {
+    "vscode": "^1.85.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Real Finnventor's Theme",
+        "uiTheme": "hc-black",
+        "path": "./themes/Real Finnventor's Theme-color-theme.json"
+      }
+    ]
+  },
+  "publisher": "RealFinnventor",
+  "keywords": [
+    "theme",
+    "dark theme",
+    "cool theme",
+    "real finnventor",
+    "realfinnventor",
+    "therealfinnventor",
+    "finnventor",
+    "real finnventor theme"
+  ]
+}
